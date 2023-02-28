@@ -1,0 +1,4 @@
+#add a git ignore file 
+
+.idea*
+.vscode*
